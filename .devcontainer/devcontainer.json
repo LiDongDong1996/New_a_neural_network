@@ -1,0 +1,4 @@
+{
+    "name":"python-torch",
+    "image":"dongdongya1996/python:torch"
+}
